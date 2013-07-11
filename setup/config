@@ -1,0 +1,4 @@
+Host awshost
+HostName your-instance-hostname
+User ubuntu
+IdentityFile "~/.ssh/your-ssh-pem-file.pem"
